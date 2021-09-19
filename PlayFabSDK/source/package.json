@@ -1,0 +1,16 @@
+{
+  "name": "com.xrdnk.playfab",
+  "version": "1.91.210406",
+  "displayName": "PlayFab",
+  "description": "SDK for C#/.net environments.",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "keywords": [
+    "PlayFab",
+    "CsharpSdk"
+  ],
+  "author": {
+    "name": "Denik",
+    "url": "https://github.com/xrdnk"
+  }
+}
